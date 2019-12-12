@@ -21,7 +21,7 @@ function findOrAdd(currentNode, newNode) {
       }
     }
   }
-  
+
 
 function inOrder(currentNode) {
   if (currentNode.left) {

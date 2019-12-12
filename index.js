@@ -48,4 +48,3 @@ function min(currentNode) {
     return currentNode;
   }
 }
-
